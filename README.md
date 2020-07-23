@@ -4,6 +4,7 @@
 
 - [x] Finite State Machine
 - [x] Turing Machine
+- [X] Search Engine
 - [ ] Graph Theory
 - [ ] Decision Tree/Behavior Tree
 - [ ] Thread and Threading
